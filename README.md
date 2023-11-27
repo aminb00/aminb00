@@ -1,32 +1,44 @@
-# Hello 👋, I'm Amin
+# Hello, I'm Amin Borqal 👋
 
-I'm a Computer Engineering student from Italy with a passion for software development.
+I'm a Computer Science Engineering student at the University of Bergamo, Italy. Passionate about Artificial Intelligence and Data Science, I'm fascinated by their potential to drive innovation and solve complex problems.
 
-## 🚀 Skills
-- **Programming Languages:** C++, Java, Python
-- **Web Development:** HTML, JavaScript, CSS, Flask
-- **Database:** SQL
-- **Tools & Frameworks:** [Add any tools and frameworks you use]
+## About Me
+- 🎓 Pursuing a B.Sc. in Computer Engineering.
+- 🌐 Fluent in Italian, and proficient in English (B1 level).
+- 💡 Interested in climate change, geopolitics, and their global impacts.
 
-## 🔭 Current Projects
-I am currently working on [Project Name]. This project focuses on [brief description of the project].
+## Technical Skills
+- **Programming Languages:** C++, Python, Java
+- **Database Management:** SQL, MongoDB
+- **Web Technologies:** HTML, JavaScript, Flask
+- **Other Skills:** Matlab (Statistics), Git/GitHub, PLC & CNC
 
-## 🌱 I’m currently learning
-Exploring [technologies or topics you are currently learning].
+## Education
+- **University of Bergamo, Italy** (Oct 2020 - Apr 2024)
+  - B.Sc. in Computer Engineering
+- **Technical Institute Riva of Sarnico, Italy** (Sep 2015 - Jun 2020)
+  - High School Degree in Computer Science and Telecommunications
 
-## ✍️ Blogging & Writing
-[If you write blogs or articles, mention them here. If not, remove this section.]
+## Work Experience
+- **Guarniflon S.p.A.** - Extrusion Worker (Feb 2022 - Ongoing)
+- **Amazon Warehouse** - Picker (Sep 2021 - Oct 2021)
+- **HarnekInfo** - Internship (Feb & Jun 2018)
 
-## 💼 Work Experience
-[Detail your work experience here, if applicable.]
+## Most Relevant Projects
+- **Air Quality Data Analysis:** Using Matlab for multiple regression analysis on air pollution data. [View Repo](#)
+- **Gold Price Forecasting:** Applying statistical and stochastic models for financial analysis. [View Repo](#)
+- **Software Engineering Project:** Developing a client-server web app for job listings and applications. [View Repo](#)
 
-## 📫 How to reach me
-- Email: [your email]
-- LinkedIn: [link to your LinkedIn profile]
-- [Other social contacts, if you wish to include them]
+## How to Reach Me
+- 📧 Email: aminborqal10@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/aminborqal](https://linkedin.com/in/aminborqal)
 
-## ⚡ Fun Facts
-[Insert some fun facts or hobbies here to show a bit of your personality.]
+## Fun Facts
+- I enjoy exploring the impact of climate change and geopolitical dynamics on our world.
+- Curious, cheerful, and organized, I thrive in dynamic and multicultural environments.
+
+
+
 
 
 
