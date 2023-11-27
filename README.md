@@ -7,11 +7,21 @@ I'm a Computer Science Engineering student at the University of Bergamo, Italy. 
 - 🌐 Fluent in Italian, and proficient in English (B1 level).
 - 💡 Interested in climate change, geopolitics, and their global impacts.
 
-## Technical Skills
-- **Programming Languages:** C++, Python, Java
-- **Database Management:** SQL, MongoDB
-- **Web Technologies:** HTML, JavaScript, Flask
-- **Other Skills:** Matlab (Statistics), Git/GitHub, PLC & CNC
+## 🚀 Technical Skills
+- **Programming Languages:** 
+  - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+- **Web Technologies:** 
+  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  - ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+- **Database Management:** ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- **Tools & Frameworks:** 
+  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+  - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  <!-- Aggiungi qui altri strumenti e framework che usi -->
 
 ## Education
 - **University of Bergamo, Italy** (Oct 2020 - Apr 2024)
