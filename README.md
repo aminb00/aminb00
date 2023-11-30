@@ -36,9 +36,9 @@ I'm a Computer Science Engineering student at the University of Bergamo, Italy. 
 - **HarnekInfo** - Internship (Feb & Jun 2018)
 
 ## Most Relevant Projects
-- **Air Quality Data Analysis:** Using Matlab for multiple regression analysis on air pollution data. [View Repo](#)
-- **Gold Price Forecasting:** Applying statistical and stochastic models for financial analysis. [View Repo](#)
-- **Software Engineering Project:** Developing a client-server web app for job listings and applications. [View Repo](#)
+- **Air Quality Data Analysis:** Using Matlab for multiple regression analysis on air pollution data.<!-- [View Repo](#) -->
+- **Gold Price Forecasting:** Applying statistical and stochastic models for financial analysis. <!-- [View Repo](#) -->
+- **Software Engineering Project:** Developing a client-server web app for job listings and applications. <!-- [View Repo](#) -->
 
 ## How to Reach Me
 - 📧 Email: aminborqal10@gmail.com
