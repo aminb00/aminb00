@@ -43,10 +43,12 @@ I'm a Computer Science Engineering student at the University of Bergamo, Italy. 
 ## How to Reach Me
 - 📧 Email: aminborqal10@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/aminborqal](https://linkedin.com/in/aminborqal)
+- 
+## Curriculum Vitae
 
-## Fun Facts
-- I enjoy exploring the impact of climate change and geopolitical dynamics on our world.
-- Curious, cheerful, and organized, I thrive in dynamic and multicultural environments.
+For a comprehensive detail of my experiences and skills, please view my CV:
+
+- 📄 [View My CV](CVAminBorqal.pdf)
 
 <!--  ![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminb00&theme=onedark&show_icons=true) -->
 
