@@ -5,7 +5,7 @@ I'm a Computer Science Engineering student at the University of Bergamo, Italy. 
 ## About Me
 - 🎓 Pursuing a B.Sc. in Computer Engineering.
 - 🌐 Fluent in Italian, and proficient in English (B1 level).
-- 💡 Interested in climate change, geopolitics, and their global impacts.
+- 💡 Interested in climate change, global affairs, and their impacts.
 
 ## 🚀 Technical Skills
 - **Programming Languages:** 
