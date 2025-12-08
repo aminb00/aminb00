@@ -125,6 +125,24 @@ Curious by nature, I like connecting **technical work** with **real-world impact
 For a detailed overview of my background, you can view my LinkedIn profile!
 
 
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- General stats -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=aminb00&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="Amin's GitHub stats" />
+
+<!-- Most used Languages -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminb00&layout=compact&theme=onedark" alt="Top Langs" />
+
+<!-- Commits -->
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aminb00&theme=onedark" alt="GitHub Streak" />
+
+</div>
 
 
